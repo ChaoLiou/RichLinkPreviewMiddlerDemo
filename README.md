@@ -1,7 +1,7 @@
 # RichLinkPreviewMiddlerDemo
 ## Senario
 - I have a website with static HTMLs, and I add many meta-datas in my home page, but not in others pages(I called them sub-pages). And now, I want to share these sub-page links on like LINE, Facebook, which will provide the `link preview`, but those sub-pages don't have enough meta-datas.
-- So I can do is hosting another HTML with fully meta-datas, and it will redirect to the sub-page, then share that HTML.
+- So I can do is hosting another HTML with fully meta-datas, and it will redirect to the sub-page, then share that HTML link.
 
 ## These HTMLs below are the Middler, and you can check the `rich link preivew` on [richpreview.com](https://richpreview.com).
 - [/Chrysanthemum.html](https://chaoliou.github.io/RichLinkPreviewMiddlerDemo/Chrysanthemum.html)
